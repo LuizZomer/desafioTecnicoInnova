@@ -1,6 +1,6 @@
 # Desafio Técnico
 
-O design para o sistema pode ser acessado através do seguinte link: [Clique aqui!](https://www.figma.com/design/Clapt3HvixJ0GoEbJVhQG9/Untitled?node-id=1-3&node-type=canvas&t=dRtxmuAwqZC3UUu2-0).
+O design do sistema pode ser acessado através do seguinte link: [Clique aqui!](https://www.figma.com/design/Clapt3HvixJ0GoEbJVhQG9/Desafio-tecnico?node-id=1-3&node-type=canvas&t=xAf9fzUEJY2ixAqy-0).
 
 O objetivo deste desafio é criar um sistema que consuma a API pública de Star Wars, cuja base URL é `https://swapi.dev/`. O sistema foi desenvolvido utilizando as seguintes bibliotecas e ferramentas:
 
