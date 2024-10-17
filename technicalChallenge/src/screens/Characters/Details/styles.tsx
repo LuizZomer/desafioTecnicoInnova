@@ -7,6 +7,7 @@ export const DetailsContainer = styled.main`
   flex-direction: column;
   align-items: center;
   margin-top: 30px;
+  padding: 10px;
 `;
 
 export const Header = styled.div`

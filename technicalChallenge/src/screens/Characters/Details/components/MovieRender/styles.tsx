@@ -10,7 +10,7 @@ export const CenterLoading = styled.div`
 `;
 
 export const MovieCard = styled.div`
-  width: 340px;
+  width: 320px;
   min-height: 200px;
   border: 1px solid ${theme.colors.primary};
   display: flex;
